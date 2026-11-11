@@ -15,13 +15,21 @@ A clean and simple web-based calculator built with HTML, CSS, and JavaScript.
 - **CSS3** - Styling and grid design
 - **JavaScript** - Calculation logic and event handling
 
-## How to Run
+## Deploy on Vercel
+
+The easiest way to deploy this project is via [Vercel](https://vercel.com):
+
+1. Push this repository to GitHub.
+2. Go to [vercel.com/new](https://vercel.com/new) and import your repository.
+3. Keep default settings (Framework Preset: **Other**) and click **Deploy**.
+
+## How to Run Locally
 
 1. Clone or download this repository:
    ```bash
    git clone <your-repository-url>
    ```
-2. Open `index.html` directly in your browser, or serve it using a local server:
+2. Open `index.html` directly in your browser, or run a local server:
    ```bash
    python -m http.server 8000
    ```
