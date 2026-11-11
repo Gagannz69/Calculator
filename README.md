@@ -15,6 +15,6 @@ A clean and simple web-based calculator built with HTML, CSS, and JavaScript.
 - **CSS** - Styling and grid design
 - **JavaScript** - Calculation logic and event handling
 
-## Click on the link to view
+
 
 
